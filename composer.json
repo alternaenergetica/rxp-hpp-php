@@ -1,5 +1,5 @@
 {
-  "name": "realexpayments/rxp-hpp-php",
+  "name": "alternaenergetica/rxp-hpp-php",
   "type": "library",
   "description": "SDK to send requests and parse responses from Realex Payments using HPP",
   "keywords": [
@@ -22,9 +22,9 @@
   "require": {
     "php": ">=5.3.9",
     "apache/log4php": "2.3.*",
-    "symfony/validator": "2.7.*",
-    "doctrine/annotations":"1.2.*",
-    "doctrine/cache":"1.4.*"
+    "symfony/validator": "2.8.*",
+    "doctrine/annotations":"1.4.*",
+    "doctrine/cache":"1.6.*"
   },
   "autoload": {
     "psr-4": {
